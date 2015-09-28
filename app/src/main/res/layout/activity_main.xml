@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:context=".MainActivity">
+
+    <TextView
+            android:text="@string/text_chooser_label"
+            android:layout_width="wrap_content"
+            android:textSize="20sp"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:layout_height="wrap_content"/>
+
+
+    <Button android:id="@+id/Fingerprint_test"
+            android:onClick="ChooseMe"
+            android:text="@string/fingerprint_button_label"
+            style="@style/main_window_button_style"/>
+
+
+    <Button android:id="@+id/GraceCreds_test"
+            android:onClick="ChooseMe"
+            android:text="@string/grace_cred_button_label"
+            style="@style/main_window_button_style"/>
+
+    <Button android:id="@+id/clearText_test"
+            android:text="@string/clear_text_button_label"
+            android:onClick="ChooseMe"
+            style="@style/main_window_button_style"/>
+
+</LinearLayout>

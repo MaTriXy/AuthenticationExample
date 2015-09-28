@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Authentication Example</string>
+
+
+    <string name="purchase">Purchase</string>
+    <string name="item_title">Mini Android collectible, Special Editions </string>
+    <string name="item_price">$59.99</string>
+    <string name="item_price_fingerprint">$41.99</string>
+
+    <string name="item_description">Mini Android collectible, Created by Hitoshi Mitani</string>
+    <string name="purchase_done">Device credentials confirmed.</string>
+    <string name="already_confirmed_device_credentials_within_last_x_seconds">
+        Device confirmed within the last %1$s seconds.
+    </string>
+    <string name="text_chooser_label">Choose the part you want to load</string>
+    <string name="fingerprint_button_label">Fingerprint Test</string>
+    <string name="grace_cred_button_label">Credentials Test</string>
+    <string name="clear_text_button_label">Clear Text Test</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="use_password">Use password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="ok">Ok</string>
+    <string name="password">Password</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password_description">Enter your store password to continue</string>
+
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+
+    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_title">Use fingerprint to authenticate</string>
+    <string name="use_fingerprint_to_authenticate_key" >use_fingerprint_to_authenticate_key</string>
+
+
+
+</resources>

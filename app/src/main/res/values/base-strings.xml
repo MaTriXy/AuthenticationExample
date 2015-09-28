@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="fingerprint_intro_message">
+        <![CDATA[
+        
+            
+This sample demonstrates how you can use registered fingerprints to authenticate the user
+before proceeding some actions such as purchasing an item.
+            
+        
+        ]]>
+    </string>
+    <string name="creds_intro_message">
+        <![CDATA[
+        
+            
+This sample demonstrates how you can use device credentials (PIN, Pattern, Password) in your app
+to authenticate the user before they are trying to complete some actions.
+            
+        
+        ]]>
+    </string>
+</resources>
