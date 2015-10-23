@@ -23,6 +23,8 @@
         <activity android:name=".fingerprintdialog.FingerPrintDialogMainActivity"
                   android:label="@string/app_name"/>
 
+        <activity android:name=".fingerprintdialog.SettingsActivity"
+                  android:label="@string/action_settings" />
 
         <activity android:name=".credentialsgrace.CredGraceActivity"
                   android:label="@string/app_name"/>

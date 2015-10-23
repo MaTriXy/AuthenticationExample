@@ -30,8 +30,6 @@ Credentials Grace period Screenshots
 ClearTextTraffic Network Screnshots
 -------------
 <img src="screenshots/ClearTextTraffic_1.png" height="400" alt="Screenshot"/> 
-<img src="screenshots/ClearTextTraffic_2.png" height="400" alt="Screenshot"/>
-<img src="screenshots/ClearTextTraffic_3.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
